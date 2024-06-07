@@ -12,7 +12,9 @@ class PhoneSceneDelegate: UIResponder, UIWindowSceneDelegate {
     
     guard let appDelegate = (UIApplication.shared.delegate as? AppDelegate) else { return }
     guard let windowScene = (scene as? UIWindowScene) else { return }
-
+    
+    appDelegate.initAppFromScene(connectionOptions: connectionOptions)
+    
     let rootViewController = UIViewController()
     rootViewController.view = appDelegate.rootView;
 
