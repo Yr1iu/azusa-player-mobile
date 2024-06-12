@@ -2370,8 +2370,7 @@
       "backdrop": "rgba(49, 49, 37, 0.4)"
     },
     "playerControlIconContained": "contained"
-  }
-  
+  },
   {
     "metaData": {
       "themeName": "Tako 播放器",
@@ -2398,11 +2397,8 @@
       "https://i0.hdslb.com/bfs/article/c892cd70fc66a24650650be54412fb1af5d4366c.png",
       "https://i0.hdslb.com/bfs/article/c2164669e228dfa7ff2d8f5ea5a1bc5d594c33c9.gif",
     ],
-
     "backgroundImages": [
-      {
         "https://i0.hdslb.com/bfs/article/8bbe7f9573dd9366232af68aa966042ae8a0b56c.jpg"
-      }
     ],
     "backgroundImagesLandscape": [
       {
