@@ -2371,4 +2371,95 @@
     },
     "playerControlIconContained": "contained"
   }
+  
+  {
+    "metaData": {
+      "themeName": "Tako 播放器",
+      "themeDesc": "赫赫",
+      "themeAuthor": "01",
+      "themeIcon": "https://i0.hdslb.com/bfs/article/c338948e0aac973968749e210ad7697b16060ca3.png",
+      "darkTheme": true
+    },
+    "gifs": [
+      "https://i0.hdslb.com/bfs/article/f3fb15bc3018f851dc2c67351db5dfeede5ba253.png",
+      "https://i0.hdslb.com/bfs/article/d33720b821aa9d5f6e66d434cc84dae391644b98.png",
+      "https://i0.hdslb.com/bfs/article/ae8f4ebc4ecf41ddb68bfe698f4a42f7e294a95b.png",
+      "https://i0.hdslb.com/bfs/article/359347c3e67a7a440295aa45c9e214ecb267fefe.png",
+      "https://i0.hdslb.com/bfs/article/ae7fd048463dfe64ac1256b7e36dfbb1c9b9e9a5.png",
+      "https://i0.hdslb.com/bfs/article/284eb5c6e0c68e32228e0da5f3645d4b0454a5ae.png",
+      "https://i0.hdslb.com/bfs/article/a4694cd36513a7f7d35371985a11b78e1f75b80a.png",
+      "https://i0.hdslb.com/bfs/article/d8023d155e05ee4ed4a0fbf56b4fadeeff6c72a5.png",
+      "https://i0.hdslb.com/bfs/article/f58d09964b22b324ce07302e955d9aa4639f6f28.png",
+      "https://i0.hdslb.com/bfs/article/e35b783772eeaba4bc48481688fade58df7341cd.png",
+      "https://i0.hdslb.com/bfs/article/f165ce9e8bd9c935285f5ba4fa50829757f47298.png",
+      "https://i0.hdslb.com/bfs/article/e681ba945b470588ad040af5d2584470f10d179d.png",
+      "https://i0.hdslb.com/bfs/article/229e010c8b66f828a10213140e158304bc076915.png",
+      "https://i0.hdslb.com/bfs/article/7052d2db67c9511da2828af2eae11cd45925ff94.png",
+      "https://i0.hdslb.com/bfs/article/c892cd70fc66a24650650be54412fb1af5d4366c.png",
+      "https://i0.hdslb.com/bfs/article/c2164669e228dfa7ff2d8f5ea5a1bc5d594c33c9.gif",
+    ],
+
+    "backgroundImages": [
+      {
+        "https://i0.hdslb.com/bfs/article/8bbe7f9573dd9366232af68aa966042ae8a0b56c.jpg"
+      }
+    ],
+    "backgroundImagesLandscape": [
+      {
+        "type": "video",
+        "identifier": "https://i0.hdslb.com/bfs/garb/item/43211ce15abe3cf3dd32ad2f080991dfb222e0ca.mp4"
+      }
+    ],
+    "customColors": {
+      "maskedBackgroundColor": "rgba(255, 255, 255, 0.40)",
+      "playlistDrawerBackgroundColor": "#FFDA1F",
+      "playlistDrawerBackgroundColorTransparent": "rgba(173,216,230, 0.35)",
+      "progressThumbTintColor": "#1e90ff",
+      "progressMinimumTrackTintColor": "#1e90ff",
+      "progressMaximumTrackTintColor": "#FFFFFF"
+    },
+    "colors": {
+      "text": "#1e90ff",
+      "primary": "#1e90ff",
+      "onPrimary": "rgb(255, 255, 255)",
+      "primaryContainer": "rgb(100,149,237)",
+      "onPrimaryContainer": "rgb(63, 0, 22)",
+      "secondary": "#00aaff",
+      "onSecondary": "rgb(255, 255, 255)",
+      "secondaryContainer": "rgb(255, 217, 223)",
+      "onSecondaryContainer": "rgb(43, 21, 26)",
+      "tertiary": "rgb(122, 87, 50)",
+      "onTertiary": "rgb(255, 255, 255)",
+      "tertiaryContainer": "rgb(255, 220, 188)",
+      "onTertiaryContainer": "rgb(44, 23, 0)",
+      "error": "rgb(186, 26, 26)",
+      "onError": "rgb(255, 255, 255)",
+      "errorContainer": "rgb(255, 218, 214)",
+      "onErrorContainer": "rgb(65, 0, 2)",
+      "background": "rgba(255, 251, 255, 0.3)",
+      "onBackground": "#1e90ff",
+      "surface": "rgb(255, 251, 255)",
+      "onSurface": "#1e90ff",
+      "surfaceVariant": "rgba(255, 251, 255, 0.2)",
+      "onSurfaceVariant": "#1e90ff",
+      "outline": "rgb(132, 115, 117)",
+      "outlineVariant": "rgb(214, 194, 196)",
+      "shadow": "rgba(0, 0, 0)",
+      "scrim": "rgb(0, 0, 0)",
+      "inverseSurface": "rgb(54, 47, 48)",
+      "inverseOnSurface": "rgb(250, 238, 238)",
+      "inversePrimary": "rgb(255, 177, 192)",
+      "elevation": {
+        "level0": "transparent",
+        "level1": "rgb(250, 242, 247)",
+        "level2": "rgb(247, 236, 242)",
+        "level3": "rgb(244, 230, 237)",
+        "level4": "rgb(243, 229, 235)",
+        "level5": "rgb(241, 225, 232)"
+      },
+      "surfaceDisabled": "rgba(32, 26, 27, 0.12)",
+      "onSurfaceDisabled": "rgba(32, 26, 27, 0.38)",
+      "backdrop": "rgba(58, 45, 47, 0.4)"
+    }
+  }
 ]
