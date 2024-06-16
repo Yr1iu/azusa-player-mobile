@@ -2394,11 +2394,12 @@
       "https://i0.hdslb.com/bfs/article/e681ba945b470588ad040af5d2584470f10d179d.png",
       "https://i0.hdslb.com/bfs/article/229e010c8b66f828a10213140e158304bc076915.png",
       "https://i0.hdslb.com/bfs/article/7052d2db67c9511da2828af2eae11cd45925ff94.png",
-      "https://i0.hdslb.com/bfs/article/c892cd70fc66a24650650be54412fb1af5d4366c.png",
-      "https://i0.hdslb.com/bfs/article/c2164669e228dfa7ff2d8f5ea5a1bc5d594c33c9.gif"
+      "https://i0.hdslb.com/bfs/article/c892cd70fc66a24650650be54412fb1af5d4366c.png"
     ],
     "backgroundImages": [
-        "https://i0.hdslb.com/bfs/article/8bbe7f9573dd9366232af68aa966042ae8a0b56c.jpg"
+      "https://i0.hdslb.com/bfs/article/8bbe7f9573dd9366232af68aa966042ae8a0b56c.jpg",
+      "https://i0.hdslb.com/bfs/article/3bc6ce99f14c706ef97bb432b1fb7ef3353403349.jpg",
+      "https://i0.hdslb.com/bfs/article/f2a56e6342add895a48076636c418b3f5e1aa04d.jpg"
     ],
     "backgroundImagesLandscape": [
       {
@@ -2407,9 +2408,9 @@
       }
     ],
     "customColors": {
-      "maskedBackgroundColor": "rgba(255, 255, 255, 0.40)",
+      "maskedBackgroundColor": "rgba(0, 0, 0, 0.40)",
       "playlistDrawerBackgroundColor": "#FFDA1F",
-      "playlistDrawerBackgroundColorTransparent": "rgba(173,216,230, 0.35)",
+      "playlistDrawerBackgroundColorTransparent": "rgba(25,25,112,0.4)",
       "progressThumbTintColor": "#1e90ff",
       "progressMinimumTrackTintColor": "#1e90ff",
       "progressMaximumTrackTintColor": "#FFFFFF"
