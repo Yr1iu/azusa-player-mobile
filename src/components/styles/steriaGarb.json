@@ -147,7 +147,6 @@
       "https://i0.hdslb.com/bfs/garb/item/ef1f2f4da34799698702c0fff1f7d344629be8cc.jpg",
       "https://i0.hdslb.com/bfs/garb/item/97f84e2838b28f14693c78e65bc23263ca2af175.jpg",
       "https://i0.hdslb.com/bfs/garb/item/8bbe7f9573dd9366232af68aa966042ae8a0b56c.jpg",
-      "https://i0.hdslb.com/bfs/garb/item/4bc4cac645b9d2a34540af6cf0567a1211b82f51.jpg",
       {
         "type": "video",
         "identifier": "https://i0.hdslb.com/bfs/garb/item/7aa32079c2bfe33ad04ee0b6ad92b46672707b27.mp4"
@@ -155,7 +154,7 @@
     ],
     "customColors": {
       "maskedBackgroundColor": "rgba(0, 0, 0, 0.10)",
-      "playlistDrawerBackgroundColor": "rebeccapurple",
+      "playlistDrawerBackgroundColor": "#FFDA1F",
       "playlistDrawerBackgroundColorTransparent": "rgba(102, 51, 153, 0.35)",
       "progressThumbTintColor": "#00BFFF",
       "progressMinimumTrackTintColor": "#00BFFF",
